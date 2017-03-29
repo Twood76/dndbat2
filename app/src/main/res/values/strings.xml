@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quick Battle</string>
+    <string name="text_pc_active">PC party active:</string>
+    <string name="text_pc_passive">PC party passive:</string>
+    <string name="text_opp_active">Enemy party active:</string>
+    <string name="text_opp_passive">Enemy party passive:</string>
+    <string name="text_opp_hp">Total enemy HP:</string>
+    <string name="text_opp_ac">Enemy average AC:</string>
+    <string name="text_char_ac">Character\'s AC:</string>
+    <string name="button_roll">Roll!</string>
+</resources>
