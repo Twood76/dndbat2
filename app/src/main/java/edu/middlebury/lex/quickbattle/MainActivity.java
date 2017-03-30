@@ -174,7 +174,7 @@ public class MainActivity extends AppCompatActivity {
         int roll = rand.nextInt(6) + rand.nextInt(6) + rand.nextInt(6) + 3;
 
         //display the roll and the calculated total damage
-        tvRoll.setText(String.format(Locale.US, "You rolled: %d", roll));
+        tvRoll.setText(String.format(Locale.US, "You rolled %d", roll));
         double damage = (20 - roll) * danger;
         tvDanger.setText(String.format(Locale.US, "%.0f damage", damage));
 
